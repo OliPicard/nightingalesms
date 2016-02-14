@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nightingalesms.xyz" resolutions="1x" timestamp="1455481327596">
+<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nightingalesms.xyz" resolutions="1x" timestamp="1455474781317">
   <folder name="css">
-    <file name="site_global.css" crc="337881458"/>
-    <file name="index.css" crc="3859413587" ref="index"/>
+    <file name="site_global.css" crc="14060979"/>
+    <file name="index.css" crc="3997350640" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="409338010" ref="index"/>
@@ -11,12 +11,8 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="health(2).png" crc="3765046663" seo="true" ref="index"/>
-    <file name="u264.png" crc="3942632461" ref="index"/>
-    <file name="u264-r.png" crc="4061810602" ref="index"/>
-    <file name="u264-m.png" crc="4061810602" ref="index"/>
     <file name="image export.jpg" crc="295293590" ref="index"/>
   </folder>
-  <file name="index.html" crc="3980477895" seo="true" mt="1455481192690" redirect="true"/>
+  <file name="index.html" crc="440770995" seo="true" mt="1455474446810" redirect="true"/>
 </manifest>
