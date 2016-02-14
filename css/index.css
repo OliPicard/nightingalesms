@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EE;
-	background-color: #42BAF0;
+	color: #0000E6;
+	background-color: #09FA53;
 }
 
 #muse_css_mq
@@ -12,44 +12,51 @@
 #page
 {
 	z-index: 1;
-	min-height: 375.9499999999982px;
+	min-height: 438px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
-	padding-top: 62px;
-	padding-bottom: 62.05000000000177px;
+	padding-bottom: 62px;
 	width: 100%;
 	max-width: 1920px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-#u130
-{
-	z-index: 2;
-	background-color: transparent;
-	position: relative;
-	width: 24.17%;
-	margin-left: 37.92%;
-	left: 0px;
-}
-
-#u130_img
-{
-	width: 100%;
-}
-
 #u143-62
 {
 	z-index: 4;
 	min-height: 354px;
+	-webkit-transition-duration: 0s;
+	-webkit-transition-delay: 0s;
+	transition-duration: 0s;
+	transition-delay: 0s;
+	background-image: url("../images/blank.gif");
 	background-color: transparent;
 	color: #FFFFFF;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 607px;
 	width: 61.36%;
 	margin-left: 19.33%;
 	left: -30px;
+}
+
+#u143-62:hover
+{
+	-webkit-transition-duration: 1s;
+	-webkit-transition-delay: 0s;
+	-webkit-transition-timing-function: ease;
+	transition-duration: 1s;
+	transition-delay: 0s;
+	transition-timing-function: ease;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 354px;
+	width: 61.36%;
+	left: -30px;
+	margin: 607px -10000px 0px 19.322916666666668%;
 }
 
 #u143-2
@@ -114,6 +121,65 @@
 	line-height: 32px;
 }
 
+#showpage
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	margin-top: 1324px;
+	left: 341px;
+}
+
+#pu130
+{
+	margin-right: -10000px;
+	margin-top: 62px;
+	width: 24.17%;
+	margin-left: 37.92%;
+}
+
+#u130
+{
+	z-index: 2;
+	background-color: transparent;
+	position: relative;
+	width: 100%;
+	margin-left: 0%;
+	left: 0px;
+}
+
+#u130_img
+{
+	width: 100%;
+}
+
+#u264
+{
+	z-index: 68;
+	height: 49px;
+	width: 80px;
+	vertical-align: top;
+	margin-top: 205px;
+	position: relative;
+	margin-left: 50%;
+	left: -43px;
+	background: url("../images/u264.png") no-repeat 6px 6px;
+}
+
+#u264:hover
+{
+	margin-left: 50%;
+	left: -43px;
+	background: url("../images/u264-r.png") no-repeat 0px 0px;
+}
+
+#u264:active
+{
+	margin-left: 50%;
+	left: -43px;
+	background: url("../images/u264-m.png") no-repeat 0px 0px;
+}
+
 .html
 {
 	background: #000000 url("../images/image%20export.jpg") no-repeat left top scroll;
@@ -125,4 +191,5 @@ body
 	position: relative;
 	min-width: 320px;
 }
+
 
