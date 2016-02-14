@@ -1,0 +1,128 @@
+.version.index /* version checker */
+{
+	color: #0000EE;
+	background-color: #42BAF0;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 375.9499999999982px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	padding-top: 62px;
+	padding-bottom: 62.05000000000177px;
+	width: 100%;
+	max-width: 1920px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u130
+{
+	z-index: 2;
+	background-color: transparent;
+	position: relative;
+	width: 24.17%;
+	margin-left: 37.92%;
+	left: 0px;
+}
+
+#u130_img
+{
+	width: 100%;
+}
+
+#u143-62
+{
+	z-index: 4;
+	min-height: 354px;
+	background-color: transparent;
+	color: #FFFFFF;
+	position: relative;
+	width: 61.36%;
+	margin-left: 19.33%;
+	left: -30px;
+}
+
+#u143-2
+{
+	font-size: 36px;
+	text-align: center;
+	line-height: 43px;
+	font-style: italic;
+}
+
+#u143-32,#u143-33
+{
+	font-size: 26px;
+	line-height: 31px;
+	font-weight: bold;
+}
+
+#u143-38
+{
+	font-size: 26px;
+	font-weight: normal;
+	line-height: 31px;
+}
+
+#u143-39
+{
+	font-size: 26px;
+	text-decoration: underline;
+	line-height: 31px;
+}
+
+#u143-26,#u143-41,#u143-43,#u143-46
+{
+	font-size: 37px;
+	font-weight: bold;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u143-21,#u143-22,#u143-23,#u143-25,#u143-37,#u143-40,#u143-42,#u143-45
+{
+	font-size: 26px;
+	line-height: 31px;
+}
+
+#u143-56,#u143-57
+{
+	font-size: 18px;
+	line-height: 22px;
+	font-weight: bold;
+}
+
+#u143-3,#u143-4,#u143-5,#u143-6,#u143-7,#u143-8,#u143-9,#u143-10,#u143-11,#u143-12,#u143-13,#u143-14,#u143-15,#u143-16,#u143-17,#u143-19,#u143-20,#u143-27,#u143-28,#u143-30,#u143-34,#u143-36,#u143-44,#u143-58
+{
+	font-size: 37px;
+	line-height: 44px;
+	font-weight: bold;
+}
+
+#u143-59,#u143-60
+{
+	font-size: 27px;
+	line-height: 32px;
+}
+
+.html
+{
+	background: #000000 url("../images/image%20export.jpg") no-repeat left top scroll;
+	background-size: contain;
+}
+
+body
+{
+	position: relative;
+	min-width: 320px;
+}
+
