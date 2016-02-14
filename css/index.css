@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EE;
-	background-color: #42BAF0;
+	color: #000008;
+	background-color: #007300;
 }
 
 #muse_css_mq
@@ -44,12 +44,33 @@
 {
 	z-index: 4;
 	min-height: 354px;
+	-webkit-transition-duration: 0s;
+	-webkit-transition-delay: 0s;
+	transition-duration: 0s;
+	transition-delay: 0s;
+	background-image: url("../images/blank.gif");
 	background-color: transparent;
 	color: #FFFFFF;
 	position: relative;
 	width: 61.36%;
 	margin-left: 19.33%;
 	left: -30px;
+}
+
+#u143-62:hover
+{
+	-webkit-transition-duration: 1s;
+	-webkit-transition-delay: 0s;
+	-webkit-transition-timing-function: ease;
+	transition-duration: 1s;
+	transition-delay: 0s;
+	transition-timing-function: ease;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 354px;
+	width: 61.36%;
+	left: -30px;
+	margin: 0px 0px 0px 19.322916666666668%;
 }
 
 #u143-2
